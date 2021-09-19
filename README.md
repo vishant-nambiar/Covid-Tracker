@@ -3,6 +3,7 @@
 --------------------------------
 
 A Covid-19 statistics tracker that uses live maps and graphs to display the current situation of the pandemic. The results can be viewed per country or globally. Built using Node.js, React and Material UI.
+You can view it [here](https://covid19-tracker-analysis.herokuapp.com).
 
 
 
