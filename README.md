@@ -9,7 +9,7 @@ You can view it [here](https://covid19-tracker-analysis.herokuapp.com).
 
 ## How to run it
 - Make sure you have `node` and `npm` installed.
-- Clone this repository.
+- Clone this repository or download the code.
 - Run `npm install` in terminal.
 - Run `npm start` in terminal.
 - If not redirected automatically, go to `http://localhost:3000` in your browser.
